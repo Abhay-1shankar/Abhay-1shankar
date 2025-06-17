@@ -9,15 +9,16 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
+ 
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay-ishankar&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhay-1shankar&show_icons=true&theme=radical" alt="stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-ishankar&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-1shankar&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
 ---
@@ -25,7 +26,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhay-ishankar&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhay-1shankar&theme=onedark" />
 </p>
 
 ---
@@ -33,7 +34,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/abhay-ishankar/abhay-ishankar/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/abhay-ishankar/abhay-1shankar/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
