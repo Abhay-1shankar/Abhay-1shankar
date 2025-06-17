@@ -20,6 +20,7 @@
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abhay-Ishankar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![snake gif](https://github.com/Abhay-Ishankar/Abhay-Ishankar/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
