@@ -42,7 +42,7 @@
 ## 🔥 Fun Wobble Icon
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Coder;I+love+Web+Dev;Learning+Never+Stops!&center=true&width=380&height=45&font=Fira+Code&color=F75C7E&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+ visitor;I'm+a+Coder;I+love+Web+Dev;Learning+Never+Stops!&center=true&width=380&height=45&font=Fira+Code&color=F75C7E&vCenter=true&pause=1000&size=22" />
 </p>
 
 
