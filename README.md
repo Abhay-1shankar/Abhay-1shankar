@@ -3,15 +3,9 @@
 ## 💻 Languages I Know
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,cs&theme=dark" alt="Tech Stack" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,cs&theme=light" height="48" />
 </p>
 
-<style>
-  img:hover {
-    transform: scale(1.2);
-    transition: all 0.3s ease-in-out;
-  }
-</style>
 
 ## 📊 GitHub Stats
 
