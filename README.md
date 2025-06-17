@@ -34,7 +34,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/abhay-ishankar/abhay-1shankar/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/abhay-1shankar/abhay-1shankar/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
