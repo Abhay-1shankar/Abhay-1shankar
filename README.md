@@ -7,16 +7,16 @@
 </p>
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay-1shankar&show_icons=true&theme=radical" alt="stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-1shankar&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhay-1shankar&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-1shankar&theme=radical&hide_border=true&border_radius=10" width="47%"/>
 </p>
 
----
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-1shankar&layout=compact&theme=radical&hide_border=true&border_radius=10" width="47%"/>
+</p>
 ## 🏆 GitHub Trophies
 
 <p align="center">
